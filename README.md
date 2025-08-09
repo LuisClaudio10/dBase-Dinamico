@@ -72,4 +72,4 @@ Este projeto foi desenvolvido para ambiente **Windows** e usa bibliotecas espec�
 
 ### Compilação:
 ```bash
-gcc main.c -o dbase.exe -lconio
+gcc main.c -o main.exe -lconio
